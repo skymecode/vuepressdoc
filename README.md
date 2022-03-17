@@ -1,2 +1,2 @@
-# vuepressdoc
-a simple doc 
+关于vuepress的快速上手
+使用yarn包管理进行构建
